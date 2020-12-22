@@ -34,7 +34,7 @@ class Block {
     }
 
     score(){
-      if (this.Visiblity < 0 && this.Visiblity > -105){
+      if (this.Visiblity < 0 && this.Visiblity > -1005){
         score++;
       }
     }
